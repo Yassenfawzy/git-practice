@@ -1,2 +1,2 @@
-﻿Original line
-from branch-a
+﻿changed by branch-a
+
